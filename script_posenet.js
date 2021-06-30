@@ -65,6 +65,13 @@ function draw() {
   updateKeypoints();
 
   drawKeypoints();
+
+  if (interpolatedKeypoints[9].y < height) {
+    tint(0,150,200);
+  }
+  else {
+    tint(255,255,255);
+  }
 }
 
 // A function to draw ellipses over the detected keypoints
