@@ -11,7 +11,7 @@ This lens animates 3 emotions:
 Also, there's a surprise for you when they put their hands in the air!
 <details>
 <summary>Spoilers!</summary>
-![alt text](assets/sunglasses.png "Angry")
+![alt text](assets/eastereggdemo.png "Angry")
 </details>
 
 ## Here are the javascript templates in this repo that you can use!
