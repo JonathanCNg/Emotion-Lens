@@ -5,8 +5,8 @@ This lens animates 3 emotions:
 1. Happy, 
 2. Sad, and 
 3. Angry.
-![alt text](assets/happydemo.png "Happy")
-![alt text](assets/saddemo.png "Sad")
+![alt text](assets/happydemo.png "Happy") 
+![alt text](assets/saddemo.png "Sad") 
 ![alt text](assets/angrydemo.png "Angry")
 Also, there's a surprise for you when they put their hands in the air!
 <details>
@@ -14,22 +14,34 @@ Also, there's a surprise for you when they put their hands in the air!
 
 ![alt text](assets/eastereggdemo.png "Easter egg")
 </details>
-## Here are the javascript templates in this repo that you can use!
 
-1. [Nose Brush using ml5 PoseNet](./script_nosebrush.js)
-2. [Body Lens using ml5 PoseNet](./script_posenet.js)
-3. [Face Lens using ml5 Face API](./script_faceapi.js)
-4. [Face Lens using ml5 Face Mesh](./script_facemesh.js)
+## To Run
 
+1. Install extension (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+2. Go to index.html
+3. Right-click blank space and select Open With Live Server
 
-## Get started
+Debugging:
+The machine learning is trained on a small set of data, me. If you'd like to train the machine to your face, follow these steps:
+1. Go to https://teachablemachine.withgoogle.com/train/image
+2. Create classes: Nothing, Happy, Sad, Angry
+3. Use Webcam to give corresponding data.
+4. Click Train Model
+5. Click Export > Upload my model
+6. Copy Shareable Link URL
+7. Replace URL in Line 55 of emotion_lens.js
+8. That's it! Refresh the Live Server and have fun!
 
-1. Select one javascript template above. 
-2. Change line 15 of the [index.html](index.html) file to the name of your template!
-4. Run your code locally using `http-server` or the `VSCode Go Live` option.
-5. Sometimes you may need to hard-refresh for your changes to load. In those cases, use `COMMAND + SHIFT + R`.
+## Link + Instructions
 
-## Here are templates and resources you can find elsewhere.
-1. [Here are all of ml5 templates for p5!](https://editor.p5js.org/ml5/sketches)
-2. [Here are some more templates from a Interaction and Computation class](http://cmuems.com/2018/60212f/deliverables/5-due-10-12/templates/) (Check out the [student gallery for some inspiration](http://cmuems.com/2018/60212f/deliverables/5-due-10-12/augmented-body-gallery/)!)
-3. [Here is the official ml5 website](https://ml5js.org/)
+Link: https://jonathancng.github.io/Emotion-Lens/
+Instructions:
+1. Happy: Wide Smile
+2. Sad: Pout with raised eyebrows.
+3. Angry: Scrunch eyebrows.
+4. Easter egg: Raise both arms!
+
+## Tools Used
+1. p5.js (https://p5js.org/)
+2. ml5.js (https://ml5js.org/)
+3. Teachable Machine (https://teachablemachine.withgoogle.com/)
