@@ -8,7 +8,7 @@ This lens animates 3 emotions:
 ![alt text](assets/happydemo.png "Happy") 
 ![alt text](assets/saddemo.png "Sad") 
 ![alt text](assets/angrydemo.png "Angry")
-Also, there's a surprise for you when they put their hands in the air!
+Also, there's a surprise for you when you put both your hands in the air!
 <details>
 <summary>Spoilers!</summary>
 
