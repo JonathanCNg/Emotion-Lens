@@ -37,6 +37,8 @@ function setup() {
 
 function updateKeypoints() {
   // If there are no poses, ignore it.
+  console.log(poses.length)
+
   if (poses.length <= 0) {
     return;
   }
