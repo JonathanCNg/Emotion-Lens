@@ -11,9 +11,9 @@ This lens animates 3 emotions:
 Also, there's a surprise for you when they put their hands in the air!
 <details>
 <summary>Spoilers!</summary>
-![alt text](assets/eastereggdemo.png "Angry")
-</details>
 
+![alt text](assets/eastereggdemo.png "Easter egg")
+</details>
 ## Here are the javascript templates in this repo that you can use!
 
 1. [Nose Brush using ml5 PoseNet](./script_nosebrush.js)
