@@ -143,16 +143,27 @@ function draw() {
   drawKeypoints(); 
 
   setImageSizes(foreheadWidth);
-  if(poses.length != 0 && interpolatedKeypoints[9].y < height && interpolatedKeypoints[10].y < height) {
+  if(interpolatedKeypoints[9].y < height && interpolatedKeypoints[10].y < height) {
       drawSunglasses();
-  }
-  else {
-      if(label === "Happy") {
+      if(poses.length == 0) {
+        if(label === "Happy") {
           drawHappy()
         }
         else if (label === "Sad") {
           drawSad()
         }
+        else if (label === "Angry") {
+            drawAngry()
+        }
+      }
+  }
+  else {
+      if(label === "Happy") {
+          drawHappy()
+      }
+      else if (label === "Sad") {
+        drawSad()
+      }
       else if (label === "Angry") {
           drawAngry()
       }
