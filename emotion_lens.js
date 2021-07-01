@@ -52,7 +52,7 @@ const BACKUP_EYE_POINTS = [159, 396];
 
 //TeachableMachine
 let classifier;
-let imageModelURL = "https://teachablemachine.withgoogle.com/models/6UrsTuUCz/"; //HI USER UPDATE ME!
+let imageModelURL = "https://teachablemachine.withgoogle.com/models/Nla6AHLwW/"; //HI USER UPDATE ME!
 let label = "";
 
 //Load assets
