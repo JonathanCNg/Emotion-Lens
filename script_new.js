@@ -11,6 +11,7 @@ const RIGHT_FOREHEAD = 333;
 const TEAR_PATH = [350,266,434]
 const VEIN_POINTS = [333, 139, 67]
 const SUNGLASSES_POINT = 6;
+const BACKUP_EYE_POINTS = [159, 396]
 let tear = {};
 let angryVein = {};
 let sparkle = {};
@@ -142,7 +143,7 @@ function draw() {
   drawKeypoints(); 
 
   setImageSizes(foreheadWidth);
-  if(interpolatedKeypoints[9].y < height && interpolatedKeypoints[10].y < height) {
+  if(poses.length != 0 && interpolatedKeypoints[9].y < height && interpolatedKeypoints[10].y < height) {
       drawSunglasses();
   }
   else {
@@ -156,7 +157,6 @@ function draw() {
           drawAngry()
       }
   }
-  
 }
 
 
@@ -182,6 +182,7 @@ function drawKeypoints() {
 
   function drawHappy() {
     imageMode(CENTER);
+    
     for (let i = 1; i < 3; i++) {
         let sparkleLocation = interpolatedKeypoints[i];
         image(
