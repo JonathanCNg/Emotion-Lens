@@ -1,9 +1,18 @@
-# Assignment 2: Make a reverse-engineered Snap Lens
+# Emotion Lens
 
-Here are the requirements: 
-
-1. VARIABLES: Based on a poseNet keypoint position (this is an object with a x and y property) in ml5, activate at least one change in p5.js (display an image,run an animation,change the screen in some way, etc.).
-2. EVENTS: Write some logic so that when an event happens (if you raise your hand, or if you make a certain gesture, etc.), activate at least one change in p5.js.
+Description:
+This lens animates 3 emotions:
+1. Happy, 
+2. Sad, and 
+3. Angry.
+![alt text](assets/happydemo.png "Happy")
+![alt text](assets/saddemo.png "Sad")
+![alt text](assets/angrydemo.png "Angry")
+Also, there's a surprise for you when they put their hands in the air!
+<details>
+<summary>Spoilers!</summary>
+![alt text](assets/sunglasses.png "Angry")
+</details>
 
 ## Here are the javascript templates in this repo that you can use!
 
