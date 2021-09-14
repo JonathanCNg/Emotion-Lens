@@ -5,14 +5,15 @@ This lens animates 3 emotions:
 1. Happy, 
 2. Sad, and 
 3. Angry.
-![alt text](assets/happydemo.png "Happy") 
-![alt text](assets/saddemo.png "Sad") 
-![alt text](assets/angrydemo.png "Angry")
+<br/>
+<img src="assets/happydemo.png" alt="drawing" height="200"/>
+<img src="assets/saddemo.png" alt="drawing" height="200"/>
+<img src="assets/angrydemo.png" alt="drawing" height="200"/>
+<br/>
 Also, there's a surprise for you when you put both your hands in the air!
 <details>
-<summary>Spoilers!</summary>
-
-![alt text](assets/eastereggdemo.png "Easter egg")
+    <summary>Spoilers!</summary>
+    <img src="assets/eastereggdemo.png" alt="drawing" height="500"/>
 </details>
 
 ## To Run
