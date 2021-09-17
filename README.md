@@ -1,10 +1,10 @@
 # Emotion Lens
 
-##Short Demo
+## Short Demo
 
 Link: https://youtu.be/C7lpT3OPrLA
 
-##Description
+## Description
 
 This lens animates 3 emotions:
 1. Happy, 
