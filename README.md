@@ -1,12 +1,11 @@
 # Emotion Lens
+Description: This lens animates 3 emotions- Happy, sad, and angry.
 
 ## Short Demo
 
 Link: https://youtu.be/C7lpT3OPrLA
 
-## Description
-
-This lens animates 3 emotions:
+## App Experience
 1. Happy, 
 <img src="assets/happydemo.png" alt="drawing" height="200"/>
 2. Sad, and 
