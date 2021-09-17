@@ -1,9 +1,11 @@
 # Emotion Lens
 
 ##Short Demo
+
 Link: https://youtu.be/C7lpT3OPrLA
 
 ##Description
+
 This lens animates 3 emotions:
 1. Happy, 
 <img src="assets/happydemo.png" alt="drawing" height="200"/>
