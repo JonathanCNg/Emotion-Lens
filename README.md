@@ -8,7 +8,7 @@ Link: https://youtu.be/C7lpT3OPrLA
 ## App Experience
 
 Happy | Sad | Angry
-:---: | :---:
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="assets/happydemo.png" alt="drawing" height="200"/> | <img src="assets/happydemo.png" alt="drawing" height="200"/> | <img src="assets/angrydemo.png" alt="drawing" height="200"/>
 
 Also, there's a surprise for you when you put both your hands in the air!
