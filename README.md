@@ -6,12 +6,11 @@ Description: This lens animates 3 emotions- Happy, sad, and angry.
 Link: https://youtu.be/C7lpT3OPrLA
 
 ## App Experience
-1. Happy, 
-<img src="assets/happydemo.png" alt="drawing" height="200"/>
-2. Sad, and 
-<img src="assets/saddemo.png" alt="drawing" height="200"/>
-3. Angry.
-<img src="assets/angrydemo.png" alt="drawing" height="200"/>
+
+Happy | Sad | Angry
+:---: | :---:
+<img src="assets/happydemo.png" alt="drawing" height="200"/> | <img src="assets/happydemo.png" alt="drawing" height="200"/> | <img src="assets/angrydemo.png" alt="drawing" height="200"/>
+
 Also, there's a surprise for you when you put both your hands in the air!
 <details>
     <summary>Spoilers!</summary>
