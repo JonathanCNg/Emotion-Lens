@@ -17,7 +17,7 @@ Prefer to watch it at your own pace? Go to https://youtu.be/isgkG8hV6fg
 
 Happy | Sad | Angry
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="assets/happy-sample.gif" alt="drawing" height="200"/> | <img src="assets/sad_sample.gif" alt="drawing" height="200"/> | <img src="assets/angry-sample.gif" alt="drawing" height="200"/>
+<img src="assets/happy-sample.gif" alt="drawing" height="200"/> | <img src="assets/sad-sample.gif" alt="drawing" height="200"/> | <img src="assets/angry-sample.gif" alt="drawing" height="200"/>
 
 Also, there's a surprise for you when you put both your hands in the air!
 <details>
