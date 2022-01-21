@@ -16,16 +16,8 @@ Prefer to watch it at your own pace? Go to https://youtu.be/isgkG8hV6fg
 ### Individual Demos
 
 Happy | Sad | Angry
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="assets/happy-sample.gif" alt="drawing" height="200"/> | <img src="assets/sad-sample.gif" alt="drawing" height="200"/> | <img src="assets/angry-sample.gif" alt="drawing" height="200"/>
-
-Also, there's a surprise for you when you put both your hands in the air!
-<details>
-    <summary>Spoilers!</summary>
-    <img src="assets/party-sample.gif" alt="drawing" height="500"/>
-</details>
-
-
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="assets/happy-sample.gif" alt="drawing" height="200"/> | <img src="assets/sad-sample.gif" alt="drawing" height="200"/> | <img src="assets/angry-sample.gif" alt="drawing" height="200"/> | <img src="assets/party-sample.gif" alt="drawing" height="500"/>
 
 ## To Run
 
