@@ -9,7 +9,7 @@ Link: https://youtu.be/C7lpT3OPrLA
 
 ### Full Demo
 
-<img src="assets/fulldemo.gif" alt="drawing" height="200"/>
+<img src="assets/fulldemo.gif" alt="drawing" height="400"/>
 
 Prefer to watch it at your own pace? Go to https://youtu.be/isgkG8hV6fg
 
