@@ -24,9 +24,9 @@ Also, there's a surprise for you when you put both your hands in the air!
 3. Right-click blank space and select Open With Live Server
 
 Debugging:
-The machine learning is trained on a small set of data, me. If you'd like to train the machine to your face, follow these steps:
+The machine learning is trained on a small set of data—me & myself. If you'd like to train the machine learning algorithm to your face, follow these steps:
 1. Go to https://teachablemachine.withgoogle.com/train/image
-2. Create classes: Nothing, Happy, Sad, Angry
+2. Create classes: "Nothing", "Happy", "Sad", "Angry"
 3. Use Webcam to give corresponding data.
 4. Click Train Model
 5. Click Export > Upload my model
