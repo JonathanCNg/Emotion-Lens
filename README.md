@@ -40,9 +40,9 @@ The machine learning is trained on a small set of data—me & myself. If you'd l
 Link: https://jonathancng.github.io/Emotion-Lens/
 Instructions:
 1. Happy: Wide Smile
-2. Sad: Pout with raised eyebrows.
-3. Angry: Scrunch eyebrows.
-4. Easter egg: Raise both arms!
+2. Sad: Pout with raised eyebrows, head tilted back.
+3. Angry: Scrunch eyebrows, mean teeth, head tilted forward.
+4. Party: Raise both arms!
 
 ## Tools Used
 1. p5.js (https://p5js.org/)
