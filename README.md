@@ -22,7 +22,7 @@ Angry 😠💢 | Party 🕺💃
 
 Link: https://jonathancng.github.io/Emotion-Lens/
 
-Warning: The machine learning is trained on a small set of data—me & myself. If you'd like to train the machine learning algorithm to your face, follow **Debuigging** steps below!
+Warning: The machine learning is trained on a small set of data—me & myself. If you'd like to train the machine learning algorithm to your face, follow **Debugging** steps below!
 
 Instructions:
 1. Happy: Wide Smile
