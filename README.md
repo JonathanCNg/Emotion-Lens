@@ -1,6 +1,6 @@
 # Emotion Lens
 
-Description: This lens animates 4 emotions- Happy, Sad, Angry, and PARTY 🕺💃.
+Description: This lens animates 4 emotions- Happy 😁, Sad 😢, Angry 😠💢, and PARTY 🕺💃.
 
 ## Experience
 
@@ -12,10 +12,10 @@ Prefer to watch it at your own pace? Go to https://youtu.be/isgkG8hV6fg
 
 ### Individual Demos
 
-Happy | Sad
+Happy 😁 | Sad 😢
 :-------------------------:|:-------------------------:
 <img src="assets/happy-sample.gif" alt="drawing" height="200"/> | <img src="assets/sad-sample.gif" alt="drawing" height="200"/>
-Angry | Party
+Angry 😠💢 | Party 🕺💃
 <img src="assets/angry-sample.gif" alt="drawing" height="200"/> | <img src="assets/party-sample.gif" alt="drawing" height="200"/>
 
 ## To Run
