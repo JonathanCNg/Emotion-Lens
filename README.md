@@ -43,7 +43,7 @@ Instructions:
 Ready to be a professional developer? Well there's no need to be if you just follow my instructions!
 
 1. Download & Install VS Code (https://code.visualstudio.com/download).
-2. Clone this repository (Either you own way, or with Github Desktop (https://desktop.github.com/)).
+2. Clone this repository (Either your own way, or with Github Desktop (https://desktop.github.com/)).
 3. Open the repository with VS Code.
 4. Install the Live Server extension to VS Code (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 5. Go to Google's Teachable Machine (https://teachablemachine.withgoogle.com/train/image).
