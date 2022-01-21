@@ -7,15 +7,25 @@ Link: https://youtu.be/C7lpT3OPrLA
 
 ## App Experience
 
+### Full Demo
+
+<img src="assets/fulldemo.gif" alt="drawing" height="200"/>
+
+Prefer to watch it at your own pace? Go to https://youtu.be/isgkG8hV6fg
+
+### Individual Demos
+
 Happy | Sad | Angry
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="assets/happydemo.png" alt="drawing" height="200"/> | <img src="assets/saddemo.png" alt="drawing" height="200"/> | <img src="assets/angrydemo.png" alt="drawing" height="200"/>
+<img src="assets/happy-sample.gif" alt="drawing" height="200"/> | <img src="assets/sad_sample.gif" alt="drawing" height="200"/> | <img src="assets/angry-sample.gif" alt="drawing" height="200"/>
 
 Also, there's a surprise for you when you put both your hands in the air!
 <details>
     <summary>Spoilers!</summary>
-    <img src="assets/eastereggdemo.png" alt="drawing" height="500"/>
+    <img src="assets/party-sample.gif" alt="drawing" height="500"/>
 </details>
+
+
 
 ## To Run
 
