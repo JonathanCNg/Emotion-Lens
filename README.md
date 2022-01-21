@@ -25,10 +25,10 @@ Link: https://jonathancng.github.io/Emotion-Lens/
 Warning: The machine learning is trained on a small set of data—me & myself. If you'd like to train the machine learning algorithm to your face, follow **Debugging** steps below!
 
 Instructions:
-1. Happy: Wide Smile
-2. Sad: Pout with raised eyebrows, head tilted back.
-3. Angry: Scrunch eyebrows, mean teeth, head tilted forward.
-4. Party: Raise both arms!
+1. **Happy**: Wide Smile
+2. **Sad**: Pout with raised eyebrows, head tilted back.
+3. **Angry**: Scrunch eyebrows, mean teeth, head tilted forward.
+4. **Party**: Raise both arms!
 
 
 
@@ -38,7 +38,7 @@ Instructions:
 2. Go to index.html
 3. Right-click blank space and select Open With Live Server
 
-## Debugging:
+## Debugging
 
 Ready to be a professional developer? Well there's no need to be if you just follow my instructions!
 
