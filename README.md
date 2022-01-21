@@ -1,11 +1,8 @@
 # Emotion Lens
-Description: This lens animates 3 emotions- Happy, sad, and angry.
 
-## Short Demo
+Description: This lens animates 4 emotions- Happy, Sad, Angry, and PARTY 🕺💃.
 
-Link: https://youtu.be/C7lpT3OPrLA
-
-## App Experience
+## Experience
 
 ### Full Demo
 
