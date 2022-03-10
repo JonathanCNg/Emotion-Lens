@@ -8,7 +8,7 @@ This lens animates 4 emotions: Happy 😁, Sad 😢, Angry 😠💢, and PARTY �
 
 <img src="assets/fulldemo.gif" alt="drawing" height="400"/>
 
-Prefer to watch it at your own pace? Go to https://youtu.be/isgkG8hV6fg
+<!--- Prefer to watch it at your own pace? Go to https://youtu.be/isgkG8hV6fg --->
 
 ### Individual Demos
 
