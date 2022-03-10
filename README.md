@@ -1,6 +1,6 @@
 # Emotion Lens
 
-This lens animates 4 emotions- Happy 😁, Sad 😢, Angry 😠💢, and PARTY 🕺💃.
+This lens animates 4 emotions: Happy 😁, Sad 😢, Angry 😠💢, and PARTY 🕺💃.
 
 ## Experience
 
